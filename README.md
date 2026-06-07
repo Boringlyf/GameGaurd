@@ -11,3 +11,4 @@ The goal is to gain hands-on experience in securing cloud-native game systems, b
 
 
 ## Lab Setup
+### What we need
