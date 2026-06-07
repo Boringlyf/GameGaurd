@@ -12,3 +12,8 @@ The goal is to gain hands-on experience in securing cloud-native game systems, b
 
 ## Lab Setup
 ### What we need
+- Create and configure a VPC
+- Create and configure subnets
+- Deploy EC2 instances ( 2 VMs - 1 for Elastic, 1 for Scanner like trivy and checkov)
+- Create and configure EKS cluster
+- Create and configure S3 bucket (this is where scan results will be stored)
