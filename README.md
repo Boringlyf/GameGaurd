@@ -34,10 +34,10 @@ A dedicated Virtual Private Cloud (VPC) was created to simulate a realistic clou
 Public and private subnets were created across multiple Availability Zones to simulate a production-grade cloud environment for online gaming services. Public subnets to host the internet-facing components such as the Elastic Stack and security scanning infrastructure, while private subnets host the Amazon EKS worker nodes and backend game services. This network segmentation follows cloud security best practices and provides a realistic lab environment for monitoring, detecting, and visualizing infrastructure security risks.
 
 #### Subnets created:
-- Public subnet a
-- Public subnet b
-- Private subnet a
-- Private subnet b
+- Public subnet a (10.0.1.0/24)
+- Public subnet b (10.0.2.0/24)
+- Private subnet a (10.0.11.0/24)
+- Private subnet b (10.0.12.0/24)
 
 <img width="1910" height="811" alt="image" src="https://github.com/user-attachments/assets/126115d2-7538-4d7c-aadf-b155a0f19468" />
 
