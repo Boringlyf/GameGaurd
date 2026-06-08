@@ -41,4 +41,7 @@ Public and private subnets were created across multiple Availability Zones to si
 
 <img width="1910" height="811" alt="image" src="https://github.com/user-attachments/assets/126115d2-7538-4d7c-aadf-b155a0f19468" />
 
-<img width="459" height="617" alt="image" src="https://github.com/user-attachments/assets/2cd5713b-ee5c-4ff0-ac7c-78e40c4b049d" />
+<img width="459" height="617" alt="image" src="https://github.com/user-attachments/assets/2cd5713b-ee5c-4ff0-ac7c-78e40c4b049d" />,
+
+#### Add Tags to the private subnets that will host EKS worker nodes and backend game services
+
