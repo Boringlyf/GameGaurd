@@ -14,6 +14,8 @@ The goal is to gain hands-on experience in securing cloud-native game systems, b
 ### What we need
 - Create and configure a VPC
 - Create and configure subnets
+- Create Internet Gateway
+- Create and configure Route tables
 - Deploy EC2 instances ( 2 VMs - 1 for Elastic, 1 for Scanner like trivy and checkov)
 - Create and configure EKS cluster
 - Create and configure S3 bucket (this is where scan results will be stored)
@@ -64,3 +66,4 @@ Public and private subnets were created across multiple Availability Zones to si
 These tags will allow EKS to create public load balancers when later game services are exposed down the line in this project.
 
 
+### Create Internet Gateway
