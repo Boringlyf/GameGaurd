@@ -19,3 +19,5 @@ The goal is to gain hands-on experience in securing cloud-native game systems, b
 - Create and configure S3 bucket (this is where scan results will be stored)
 
 ### Create and Configure VPC on AWS
+
+<img width="1512" height="870" alt="image" src="https://github.com/user-attachments/assets/f38a82ba-3b77-4566-938b-089a030420cf" />
