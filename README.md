@@ -69,3 +69,5 @@ These tags will allow EKS to create public load balancers when later game servic
 ### Create Internet Gateway
 
 An Internet Gateway (IGW) will need to be created and attached to the VPC to enable communication between resources within the VPC and the public internet. This component provides the connectivity required for internet-facing services, such as the Elastic Stack and security scanning infrastructure, while serving as a foundational networking element for the cloud-native gaming environment.
+
+<img width="1300" height="672" alt="image" src="https://github.com/user-attachments/assets/b55defbd-1d20-40a7-8dbd-a3c470818dc2" />
