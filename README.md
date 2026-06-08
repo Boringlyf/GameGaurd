@@ -47,6 +47,7 @@ Public and private subnets were created across multiple Availability Zones to si
 > EKS uses subnet tags to determine where to place resources.
 
 ##### Tags to add for both Private subnets:
-<img width="1299" height="798" alt="image" src="https://github.com/user-attachments/assets/59f0458f-86c6-472d-848c-67ac30c6996b" />
+<img width="1300" height="620" alt="image" src="https://github.com/user-attachments/assets/e848ed46-c343-4232-abd7-fd8b75719403" />
+
 
 
