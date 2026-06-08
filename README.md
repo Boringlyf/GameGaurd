@@ -74,3 +74,5 @@ An Internet Gateway (IGW) will need to be created and attached to the VPC to ena
 
 <img width="987" height="527" alt="image" src="https://github.com/user-attachments/assets/277c40d6-b10f-49df-94ad-92a199b77aab" />
 
+
+### Create Route Tables
