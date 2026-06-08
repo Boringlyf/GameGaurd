@@ -45,3 +45,8 @@ Public and private subnets were created across multiple Availability Zones to si
 
 #### Add Tags to the private subnets that will host EKS worker nodes and backend game services
 > EKS uses subnet tags to determine where to place resources.
+
+##### Tags to add for both Private subnets:
+<img width="1299" height="798" alt="image" src="https://github.com/user-attachments/assets/59f0458f-86c6-472d-848c-67ac30c6996b" />
+
+
