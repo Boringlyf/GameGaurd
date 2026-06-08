@@ -30,3 +30,5 @@ A dedicated Virtual Private Cloud (VPC) was created to simulate a realistic clou
 
 
 ### Create and Configure multiple Subnets within the VPC
+
+Public and private subnets were created across multiple Availability Zones to simulate a production-grade cloud environment for online gaming services. Public subnets to host the internet-facing components such as the Elastic Stack and security scanning infrastructure, while private subnets host the Amazon EKS worker nodes and backend game services. This network segmentation follows cloud security best practices and provides a realistic lab environment for monitoring, detecting, and visualizing infrastructure security risks.
