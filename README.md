@@ -78,3 +78,7 @@ An Internet Gateway (IGW) will need to be created and attached to the VPC to ena
 ### Create Route Tables
 
 Route tables will be created to control how network traffic flows within the VPC and between AWS resources and the internet. Separate route tables will be configured for public and private subnets to enforce network segmentation, ensuring that internet-facing services remain isolated from backend game infrastructure. This setup will provide a realistic cloud architecture for the project and enable the identification, monitoring, and visualization of network-related security misconfigurations within the AWS environment.
+
+#### For this project we will create the following Route Tables:
+- Public Route Table -> Elastic Server & Scanner VM
+- Private Route Table -> EKS Worker Nodes
