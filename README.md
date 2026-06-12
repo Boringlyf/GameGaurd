@@ -83,4 +83,5 @@ Route tables will be created to control how network traffic flows within the VPC
 - Public Route Table -> Elastic Server & Scanner VM
 - Private Route Table -> EKS Worker Nodes
 
+#### Public route table:
 <img width="1307" height="730" alt="image" src="https://github.com/user-attachments/assets/08e097ce-df00-40a2-bdbe-eeb14efda395" />
